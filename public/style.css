@@ -1,0 +1,12 @@
+p{
+    color: beige;
+    font-size: 16px;
+}
+h1, h2
+{
+    font-size: 50px;
+    text-align: center;
+    color: goldenrod;
+}
+h2{font-size: 30px;}
+h3{color: wheat;}
